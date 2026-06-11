@@ -94,18 +94,18 @@ const phenry = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9&icon_color=A78BFA&border_radius=12" height="180" alt="Phenry's GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Oluwaferanmijohn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9&icon_color=A78BFA&border_radius=12" height="180" alt="Phenry's GitHub Stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9&border_radius=12" height="180" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oluwaferanmijohn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9&border_radius=12" height="180" alt="Top Languages"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight-duo&hide_border=true&border_radius=12&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&ring=00F5FF&fire=FF4D6D&currStreakLabel=00F5FF" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=Oluwaferanmijohn&theme=tokyonight-duo&hide_border=true&border_radius=12&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&ring=00F5FF&fire=FF4D6D&currStreakLabel=00F5FF" alt="GitHub Streak"/>
 
 <br/><br/>
 
 <!-- ACTIVITY GRAPH -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=00F5FF&line=A78BFA&point=FF4D6D&area=true&hide_border=true&border_radius=12" width="100%" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Oluwaferanmijohn&bg_color=0D1117&color=00F5FF&line=A78BFA&point=FF4D6D&area=true&hide_border=true&border_radius=12" width="100%" alt="Activity Graph"/>
 
 </div>
 
@@ -115,7 +115,7 @@ const phenry = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy]([https://github-profile-trophy.vercel.app/?username=Oluwaferanmijohn&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8](https://github.com/users/Oluwaferanmijohn/achievements/pull-shark))](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
